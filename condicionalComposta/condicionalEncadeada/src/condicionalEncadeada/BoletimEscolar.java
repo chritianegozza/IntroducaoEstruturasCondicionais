@@ -1,0 +1,20 @@
+package condicionalEncadeada;
+
+public class BoletimEscolar {
+	public static void main(String[] args) {
+		int nota = 8;
+		System.out.println("O aluno tirou:  " + nota);
+		
+		if(nota >= 7) {
+			System.out.println("Aprovado");
+		}else if(nota >= 5 && nota < 7) {
+			System.out.println("Recuperação");
+		}else {
+			System.out.println("Reprovado");
+		}
+		
+		
+	}
+	
+	
+}
