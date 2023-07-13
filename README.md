@@ -24,4 +24,4 @@ For em Arrays, For, foreach, while, do while.
 Java 
 ******************************************************************************************************
 
-Material do professor Glecio da trilha de java básico [aqui](https://github.com/digitalinnovationone/trilha-java-basico).
+Material do professor Gleyson Sampaio da trilha de java básico [aqui](https://github.com/digitalinnovationone/trilha-java-basico).
