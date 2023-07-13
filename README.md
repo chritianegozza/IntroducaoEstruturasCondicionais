@@ -7,6 +7,7 @@
 
 ![image](https://github.com/chritianegozza/IntroducaoEstruturasCondicionais/assets/72118415/c2aaab83-1863-4f31-ab1a-8976be23a178)
 
+![image](https://github.com/chritianegozza/IntroducaoEstruturasCondicionais/assets/72118415/52736396-03c2-4228-a8a9-6ede4e022e5a)
 
 *****************************************************************************************************
 👩🏻‍💻 Projeto
