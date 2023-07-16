@@ -11,12 +11,16 @@
 
 ![image](https://github.com/chritianegozza/IntroducaoEstruturasCondicionais/assets/72118415/90258b7b-d08b-4d47-bfc4-96c69342651c)
 
+![image](https://github.com/chritianegozza/IntroducaoEstruturasCondicionais/assets/72118415/27a79b23-9bd8-417f-8ecc-4d60280f1083)
+
+![image](https://github.com/chritianegozza/IntroducaoEstruturasCondicionais/assets/72118415/610aa7e4-5cfa-4d33-b02b-297303ec71c1)
+
 
 *****************************************************************************************************
 👩🏻‍💻 Projeto
 
 Esse projeto é sobre o que foi aprendido nas aulas do curso de Java, como Estruturas de Repetição em Java, 
-For em Arrays, For, foreach, while, do while.
+For em Arrays, For, foreach, while, do while, Tratamento de Exceções.
 
 *******************************************************************************************************
 🧩 Linguagem
